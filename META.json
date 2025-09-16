@@ -1,0 +1,61 @@
+{
+  "category": "api-gateways",
+  "created_date": "2025-09-15T22:48:59.362326",
+  "default_ports": [
+    80,
+    443,
+    8080
+  ],
+  "dependencies": [],
+  "description": "tyk is a free and open-source API gateway. Tyk provides open source API gateway and management platform",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/api-gateways/tyk",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/api-gateways/tyk",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.362349",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "tyk",
+  "repository_url": "https://github.com/howtomgr/tyk",
+  "spec_version": "2.0",
+  "subcategory": "api-gateways",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "api-gateways",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "tyk Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/api-gateways/tyk"
+}
